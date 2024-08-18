@@ -3,7 +3,7 @@ This program is open-source and reliable. It is easy to use. By using the "Clien
 
 short_term: Last 1 month,
 medium_term: Last 6 months,
-long_term: All time
+long_term: Last year
 
 Run this command in the terminal to set up the Spotipy library:
 pip install spotipy // Windows
