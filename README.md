@@ -5,7 +5,7 @@ short_term: Last 1 month,
 medium_term: Last 6 months,
 long_term: All time
 
-Run this command in the terminal to set up the Spotipy library.:
+Run this command in the terminal to set up the Spotipy library:
 pip install spotipy
 
 Happy listening!
