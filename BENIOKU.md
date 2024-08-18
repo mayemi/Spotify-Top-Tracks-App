@@ -6,7 +6,7 @@ Bu aralıkların açıklamaları aşağıdaki gibidir:
 
 short_term: Son 1 ay,
 medium_term: Son 6 ay,
-long_term: Tüm zamanlar
+long_term: Son 1 yıl
 
 Spotipy kütüphanesinin kurulumu için terminal'e bunu yazın:
 pip install spotipy // Windows
