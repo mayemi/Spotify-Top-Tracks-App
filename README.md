@@ -5,4 +5,11 @@ short_term: Last 1 month,
 medium_term: Last 6 months,
 long_term: All time
 
+Run this command in the terminal to set up the Spotipy library.:
+pip install spotipy
+
 Happy listening!
+
+NOTE: Some antivirus programs may give false-positive results for the exe file. The code is completely clean. If you want, you can scan the code using AI tools like ChatGPT.
+The reasons for it being flagged as a virus include the fact that it was converted into an exe file using PyInstaller and the permissions requested by the Spotipy module from the Spotify API.
+Please do your research and ensure that it’s clean before running the code.
