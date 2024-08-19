@@ -9,8 +9,8 @@ medium_term: Son 6 ay,
 long_term: Son 1 yıl
 
 Spotipy kütüphanesinin kurulumu için terminal'e bunu yazın:
-pip install spotipy // Windows
-pip3 install spotipy // MacOS
+Windows: pip install spotipy
+MacOS: pip3 install spotipy
 
 Şimdiden iyi kullanımlar!
 
