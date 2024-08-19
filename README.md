@@ -6,8 +6,8 @@ medium_term: Last 6 months,
 long_term: Last year
 
 Run this command in the terminal to set up the Spotipy library:
-pip install spotipy // Windows
-pip3 install spotipy // MacOS
+Windows: pip install spotipy,
+MacOS: pip3 install spotipy
 
 Happy listening!
 
